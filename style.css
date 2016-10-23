@@ -1,0 +1,30 @@
+#upcoming, #nowplaying {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+img {
+	width: 250px;
+	height: 375px;
+}
+
+div {
+	padding: 20px 10px;
+}
+
+#theatertable {
+	border-style: 1px solid;
+}
+
+td, th {
+	padding: 10px 20px !important;
+}
+
+table, td, th {
+	border: 1px solid;
+
+}
+
+table {
+	border-collapse: collapse;
+}

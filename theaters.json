@@ -1,0 +1,6 @@
+{"theaters": [
+	{"name":"SouthSide Works Cinema", "address": "425 Cinema Dr", "phone":"4123811681"},
+	{"name":"The Manor Theatre", "address": "1729 Murray Ave", "phone":"4124229851"},
+	{"name":"Row House Cinema", "address": "4115 Butler St", "phone":"4129043225"},
+	{"name":"Waterworks Cinemas", "address": "930 Freeport Rd", "phone":"4127841416"}
+]}
